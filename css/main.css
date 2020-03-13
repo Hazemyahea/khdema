@@ -1,0 +1,323 @@
+*{
+direction: rtl;
+font-family: 'Tajawal', sans-serif;
+
+}
+
+body{
+  height: ;
+}
+/* NavBar */
+nav{
+  padding: 20px;
+  font-size: 20px;
+  background-color: #3E474F;
+  color: #EDEFF0;
+}
+
+nav a{
+    color: #EDEFF0;
+}
+
+nav a:hover{
+  color: #EDFFF0;
+  padding: 5px;
+  transition: all 0.2s ease-in-out;
+}
+
+nav .navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 2.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+nav .navbar-toggler {
+    border-color: rgb(255,102,203);
+}
+nav  .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+/* Header */
+header{
+
+  background-image: url(../images/imageser.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.over-lay{
+    width: 100%;
+    background-color: #212529e0;
+    height: 789px;
+
+}
+header h1 {
+  position: relative;
+  bottom: 125px;
+  top: 280px;
+
+  color: whitesmoke;
+  font-size: 43px;
+  /* font-family: tahoma; */
+  font-weight: bolder;
+
+}
+header button a{
+  text-decoration: none;
+  color: white;
+  font-size: 26px;
+}
+header button a:hover{
+  color: white;
+  text-decoration: none;
+
+}
+
+header button{
+  position: relative;
+    top: 310px;
+    left: 39%;
+    width: 236px;
+    height: 62px;
+}
+
+/*  Features */
+
+.Features{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  width: 100%;
+  text-align: center;
+}
+
+.Features h4{
+  margin-top: 5px;
+}
+
+.Features .col{
+  margin-left: 10px;
+}
+
+.Features h2{
+  font-size: 60px;
+    margin-bottom: 48px;
+}
+
+.Features .i{
+  margin-bottom: 10px;
+}
+
+/* A b o u t*/
+.about{
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  text-align: center;
+  background-image: url(../images/about.jpg);
+  color: white;
+background-size: cover;
+  background-attachment: fixed;
+  box-shadow: 10px 10px 32px 11px #4c4c4c;
+
+}
+
+.about h2{
+  font-size: 60px;
+    margin-bottom: 40px;
+
+}
+
+.about p{
+  font-size: 24px;
+  line-height: 40px;
+
+
+}
+.about .over{
+  background-color: #0000009e;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  height: ;
+  width: 100%;
+
+}
+
+
+/* Servises */
+
+.Servises{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.Servises h2{
+  /*font-size: 40px;*/
+  font-size: 63px;
+    margin-bottom: 33px;
+}
+.Servises .i{
+  margin-bottom: 10px;
+padding-top: 20px;
+  transition: all 0.3s;
+}
+
+.Servises .i:hover{
+  background-color: #ddd;
+}
+
+.Servises a{
+  color: white;
+}
+
+.Servises a:hover{
+  color: white;
+    text-decoration: none;
+    color: #eee;
+
+}
+.Servises h4{
+  margin-top: 20px;
+}
+
+.Servises button{
+  width: 50%;
+  height: 10%;
+  margin-top: 20px;
+}
+
+/* How */
+
+.how{
+  padding-top: px;
+  padding-bottom:40px;
+  background-color: ;
+
+}
+
+.how h2{
+  font-size: 40px;
+  margin-bottom: 46px;
+}
+.how li{
+  margin-bottom: 36px;
+  transition: all 0.3s;
+}
+.how li:hover{
+  transform: scale(1.1);
+}
+.how ul{
+  margin-top: 14px;
+
+}
+
+.how img{
+  transition: all 0.3s ;
+}
+
+.how img:hover{
+  transform: scale(1.1);
+}
+
+/* footer */
+footer{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #333333;
+  color: white;
+  text-align: center;
+}
+
+footer ul li{
+  list-style: none;
+  margin-bottom: 10px;
+
+}
+footer ul li a{
+  color: white;
+}
+
+footer ul li a:hover{
+  text-decoration: none;
+  color: #ddd;
+}
+footer h4{
+  margin-bottom: 24px;
+}
+
+/* Order   */
+
+/* Header Responsive */
+
+@media (max-width: 575px) {
+
+  header h1 {
+      position: relative;
+      bottom: 125px;
+      top: 280px;
+      color: whitesmoke;
+      font-size: 20px;
+      /* font-family: tahoma; */
+      font-weight: bolder;
+    }
+
+    header button{
+      position: relative;
+        top: 310px;
+        left: 23%;
+        width: 236px;
+        height: 62px;
+    }
+  }
+
+
+@media (min-width: 576px) and (max-width: 767px) { header h1 {
+    position: relative;
+    bottom: 125px;
+    top: 280px;
+    color: whitesmoke;
+    font-size: 23px;
+    /* font-family: tahoma; */
+    font-weight: bolder;
+  }
+
+  header button{
+    position: relative;
+      top: 310px;
+      left: 28%;
+      width: 236px;
+      height: 62px;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+header h1 {
+    position: relative;
+    bottom: 125px;
+    top: 280px;
+    color: whitesmoke;
+    font-size: 32px;
+    /* font-family: tahoma; */
+    font-weight: bolder;
+  }
+
+  header button{
+    position: relative;
+      top: 310px;
+      left: 37%;
+      width: 236px;
+      height: 62px;
+  }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+
+
+@media (min-width: 1200px) { ... }

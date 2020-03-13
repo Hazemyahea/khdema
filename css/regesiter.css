@@ -1,0 +1,12 @@
+.regesiter{
+  margin: auto;
+  margin-top: 100px;
+  width: 500px;
+  border:1px solid #ddd;
+  padding: 50px;
+}
+
+.regesiter h1{
+padding: 30px;
+font-size: 16px;
+}

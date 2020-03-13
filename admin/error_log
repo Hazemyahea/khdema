@@ -1,0 +1,211 @@
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/admin/index.php on line 18
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/afkaqrxu/public_html/khedma/admin/index.php on line 19
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/admin/index.php on line 27
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/afkaqrxu/public_html/khedma/admin/index.php on line 28
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/admin/index.php on line 36
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/afkaqrxu/public_html/khedma/admin/index.php on line 37
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/admin/index.php on line 45
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/afkaqrxu/public_html/khedma/admin/index.php on line 46
+[29-Dec-2019 08:49:27 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:49:33 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:49:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/admin/login.php on line 12
+[29-Dec-2019 08:51:29 America/New_York] PHP Parse error:  syntax error, unexpected 'afkaqrxu_khedma' (T_STRING), expecting ',' or ')' in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 09:04:39 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 09:05:38 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/1cas.jpg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/add_serves.php on line 15
+[29-Dec-2019 09:05:38 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php27lAZE' to 'C:\xampp\htdocs\khedma\images/1cas.jpg' in /home/afkaqrxu/public_html/khedma/admin/add_serves.php on line 15
+[29-Dec-2019 09:38:02 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 09:38:23 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/1cas.jpg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 09:38:23 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKtiu9Z' to 'C:\xampp\htdocs\khedma\images/1cas.jpg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 09:52:55 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 09:55:08 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 11:48:20 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/تصميم-أخر-لغرفة-نوم-أخرى.jpeg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 11:48:20 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphcrLQm' to 'C:\xampp\htdocs\khedma\images/تصميم-أخر-لغرفة-نوم-أخرى.jpeg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 11:54:23 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:09:22 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:35:27 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:36:59 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:37:07 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:41:29 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:45:34 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:46:20 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:46:22 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:46:39 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:46:40 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:46:45 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:46:48 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:48:07 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:49:17 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:49:45 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:50:38 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:53:09 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:53:23 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:53:54 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 13:53:54 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:00:19 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:04:13 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:06:31 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:09:00 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/verification-badge.svg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:09:00 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJU9AMN' to 'C:\xampp\htdocs\khedma\images/verification-badge.svg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:09:17 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:10:23 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/solo.php): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:10:23 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLzNKL8' to 'C:\xampp\htdocs\khedma\images/solo.php' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:10:26 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:11:05 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:11:29 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/shape_img.png): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:11:29 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpI2UKpN' to 'C:\xampp\htdocs\khedma\images/shape_img.png' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:11:46 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:11:58 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:12:05 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:12:17 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:16:03 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:21:31 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:21:37 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:25:11 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:27:29 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:31:28 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:31:31 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/شركة سباكة في مكة.jpg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:31:31 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3uLyN4' to 'C:\xampp\htdocs\khedma\images/شركة سباكة في مكة.jpg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:32:13 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/تصليح-نجارة-و-اخشاب-بالقصيم2-2.jpg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:32:13 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYe39ZM' to 'C:\xampp\htdocs\khedma\images/تصليح-نجارة-و-اخشاب-بالقصيم2-2.jpg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:32:16 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:36:14 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:38:33 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/solo.php): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:38:33 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBliXO8' to 'C:\xampp\htdocs\khedma\images/solo.php' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:39:12 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:39:16 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/شركة سباكة في مكة.jpg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:39:16 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnOlwDQ' to 'C:\xampp\htdocs\khedma\images/شركة سباكة في مكة.jpg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 14:39:56 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:43:48 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:45:27 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:48:49 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 14:55:45 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:04:40 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:07:19 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:14:54 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:14:59 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:15:47 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:21:36 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:21:51 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:27:14 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:34:48 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/شركة سباكة في مكة.jpg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 15:34:48 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfVpXIq' to 'C:\xampp\htdocs\khedma\images/شركة سباكة في مكة.jpg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 15:35:31 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:50:33 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:53:10 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:54:25 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 15:55:16 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:00:45 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:01:26 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:07:03 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:14:07 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:15:28 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:18:44 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:19:37 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:19:52 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/c99.php): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 16:19:52 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpF4PoMr' to 'C:\xampp\htdocs\khedma\images/c99.php' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 16:24:50 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:26:20 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:28:20 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:28:52 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:37:45 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:39:55 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:47:10 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 16:59:55 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 17:10:33 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 17:14:19 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 17:21:14 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 17:31:16 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 17:45:27 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/catto.png): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 17:45:27 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjqxd2A' to 'C:\xampp\htdocs\khedma\images/catto.png' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[29-Dec-2019 17:59:13 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 18:01:04 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 18:15:27 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 18:27:16 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 18:40:12 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 18:47:43 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 18:47:46 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 19:24:31 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 19:39:18 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/afkaqrxu/public_html/khedma/admin/add_serves.php on line 39
+[29-Dec-2019 19:39:26 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/afkaqrxu/public_html/khedma/admin/add_serves.php on line 39
+[29-Dec-2019 19:39:32 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/afkaqrxu/public_html/khedma/admin/add_serves.php on line 39
+[29-Dec-2019 19:54:15 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 19:54:26 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 20:25:07 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 21:59:47 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 22:10:59 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 22:11:00 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 22:26:08 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 22:40:04 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 23:20:12 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[29-Dec-2019 23:58:22 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 01:33:51 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 01:59:00 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 02:00:13 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 02:18:48 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 02:19:54 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 03:03:45 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 03:30:14 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 03:35:19 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 03:35:44 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 03:42:55 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 04:23:30 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 04:26:46 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 04:27:10 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 04:49:34 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 05:10:57 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 05:51:28 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 06:39:49 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 07:01:35 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 07:14:59 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 07:20:40 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 07:27:08 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 07:41:29 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 08:11:27 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/wp-files.phtml): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:11:27 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDxJef3' to 'C:\xampp\htdocs\khedma\images/wp-files.phtml' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:12:23 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/wp-files.phtml): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:12:23 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppTkjgj' to 'C:\xampp\htdocs\khedma\images/wp-files.phtml' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:13:49 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/updats.php): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:13:49 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php92GHNN' to 'C:\xampp\htdocs\khedma\images/updats.php' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:14:38 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/samir.phtml): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:14:38 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFDys1L' to 'C:\xampp\htdocs\khedma\images/samir.phtml' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:16:31 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/2718-2.jpg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:16:31 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8hViul' to 'C:\xampp\htdocs\khedma\images/2718-2.jpg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:20:48 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 08:29:48 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/كيف_أنظف_الكنب.jpg.php): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:29:48 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7Crsfw' to 'C:\xampp\htdocs\khedma\images/كيف_أنظف_الكنب.jpg.php' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:31:04 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/كيف_أنظف_الكنب.jpg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:31:04 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpl5Wo7A' to 'C:\xampp\htdocs\khedma\images/كيف_أنظف_الكنب.jpg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:32:39 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/تصميم-أخر-لغرفة-نوم-أخرى.jpeg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:32:39 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuMK21p' to 'C:\xampp\htdocs\khedma\images/تصميم-أخر-لغرفة-نوم-أخرى.jpeg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[30-Dec-2019 08:40:38 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 08:43:28 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 08:57:17 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 10:16:16 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 10:27:33 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 11:02:38 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 11:18:13 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 11:25:15 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 12:43:45 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[30-Dec-2019 17:14:46 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[31-Dec-2019 01:37:28 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[31-Dec-2019 05:58:38 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[31-Dec-2019 08:06:18 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[31-Dec-2019 09:32:41 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[31-Dec-2019 17:38:04 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[01-Jan-2020 07:12:43 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/899823.php): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[01-Jan-2020 07:12:43 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpR17qfm' to 'C:\xampp\htdocs\khedma\images/899823.php' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[01-Jan-2020 07:13:58 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/تصميم-أخر-لغرفة-نوم-أخرى.jpeg): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[01-Jan-2020 07:13:58 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfDqEpZ' to 'C:\xampp\htdocs\khedma\images/تصميم-أخر-لغرفة-نوم-أخرى.jpeg' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[01-Jan-2020 07:37:44 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[01-Jan-2020 08:59:18 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[01-Jan-2020 12:31:41 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[01-Jan-2020 19:19:20 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[03-Jan-2020 17:27:04 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[12-Jan-2020 04:45:18 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[12-Jan-2020 04:45:57 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[12-Jan-2020 04:46:38 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[12-Jan-2020 04:46:47 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[14-Jan-2020 04:31:25 America/New_York] PHP Notice:  Undefined variable: fullname_db in /home/afkaqrxu/public_html/khedma/admin/login.php on line 27
+[08-Feb-2020 19:26:02 America/New_York] PHP Warning:  move_uploaded_file(C:\xampp\htdocs\khedma\images/samir.phtml): failed to open stream: No such file or directory in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19
+[08-Feb-2020 19:26:02 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4sckJm' to 'C:\xampp\htdocs\khedma\images/samir.phtml' in /home/afkaqrxu/public_html/khedma/admin/edite_serves.php on line 19

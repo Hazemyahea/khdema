@@ -1,0 +1,178 @@
+*{
+direction: rtl;
+font-family: 'Tajawal', sans-serif;
+
+}
+
+/* NavBar */
+.nav{
+  padding: 20px;
+  font-size: 20px;
+  background-color: #003a6d;
+  color: #EDEFF0;
+}
+
+.nav a{
+    color: #EDEFF0;
+}
+
+.nav a:hover{
+  color: #EDFFF0;
+  padding: 5px;
+  transition: all 0.2s ease-in-out;
+}
+
+.nav .navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 2.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.nav .navbar-toggler {
+    border-color: rgb(255,102,203);
+}
+.nav  .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+.side{
+  float: right;
+}
+
+.row{
+  margin-left: 0px;
+}
+
+.side{
+  text-align: center;
+    background-color: #033A6D;
+    color: whitesmoke;
+    margin-top: 5px;
+    margin-right: -15px;
+    height: 600px;
+}
+.side ul{
+  list-style: none;
+  text-align: center;
+padding: 40px;
+}
+.side ul li{
+  margin-top: 50px;
+  font-size: 24px;
+    transition: 0.3s all;
+}
+
+.side ul li:hover{
+  transform: scale(1.5);
+}
+
+.side ul li a{
+  color: white;
+  transition: 0.3s all;
+}
+
+.side ul li a:hover{
+  text-decoration: none;
+}
+
+.content h1{
+  margin-top: 10px;
+  font-size: 60px;
+}
+
+.add{
+  margin-top: 10px;
+
+}
+
+.members {
+  background-color: #DD3F40 ;
+margin-top: 7px;
+border: 1px solid #ddd;
+padding: 5px;
+color: white;
+}
+
+.members h4{
+  margin-top: 5px;
+}
+
+.members .icon{
+  color: white;
+}
+.members h5{
+  margin-top: 10px;
+}
+
+.servises {
+  background-color: #F8A30F ;
+margin-top: 7px;
+border: 1px solid #ddd;
+padding: 5px;
+color: white;
+}
+
+.servises h4{
+  margin-top: 5px;
+}
+
+.servises .icon{
+  color: white;
+}
+.servises h5{
+  margin-top: 10px;
+}
+
+.orders {
+  background-color: #2C8BE0 ;
+margin-top: 7px;
+border: 1px solid #ddd;
+padding: 5px;
+color: white;
+}
+
+.orders h4{
+  margin-top: 5px;
+}
+
+.orders .icon{
+  color: white;
+}
+.orders h5{
+  margin-top: 10px;
+}
+
+.worker {
+  background-color: #2619B1 ;
+margin-top: 7px;
+border: 1px solid #ddd;
+padding: 5px;
+color: white;
+}
+
+.worker h4{
+  margin-top: 5px;
+}
+
+.worker .icon{
+  color: white;
+}
+.worker h5{
+  margin-top: 10px;
+}
+
+.admin-login{
+  background-color: #007bff;
+      padding: 34px;
+      /* margin: auto -10px; */
+      margin-top: 90px;
+}
+
+.admin-login h1{
+  margin-bottom: 50px;
+}

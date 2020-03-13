@@ -1,0 +1,20 @@
+.ser{
+  text-align: center;
+  padding: 10px;
+
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.ser img{
+  border-radius: 7%;
+  /* border: 1px solid #ddd; */
+  box-shadow: 10px 8px 10px #DDD;
+  margin-bottom: 14px;
+  margin-top: 9px;
+  width: 68%;
+  height: 200px;
+}
+.ser span{
+  color: red;
+}

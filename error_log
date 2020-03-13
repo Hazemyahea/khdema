@@ -1,0 +1,67 @@
+[29-Dec-2019 08:46:56 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:48:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:48:59 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:48:59 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/servises.php on line 10
+[29-Dec-2019 08:48:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/afkaqrxu/public_html/khedma/servises.php on line 11
+[29-Dec-2019 08:49:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:49:17 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:49:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/order.php on line 45
+[29-Dec-2019 08:51:30 America/New_York] PHP Parse error:  syntax error, unexpected 'afkaqrxu_khedma' (T_STRING), expecting ',' or ')' in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:51:31 America/New_York] PHP Parse error:  syntax error, unexpected 'afkaqrxu_khedma' (T_STRING), expecting ',' or ')' in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:51:36 America/New_York] PHP Parse error:  syntax error, unexpected 'afkaqrxu_khedma' (T_STRING), expecting ',' or ')' in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:52:02 America/New_York] PHP Parse error:  syntax error, unexpected 'afkaqrxu_khedma' (T_STRING), expecting ',' or ')' in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:53:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:53:02 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/config.php on line 6
+[29-Dec-2019 08:53:08 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:53:08 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/config.php on line 6
+[29-Dec-2019 08:53:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/servises.php on line 10
+[29-Dec-2019 08:53:08 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/afkaqrxu/public_html/khedma/servises.php on line 11
+[29-Dec-2019 08:53:09 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:53:09 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/config.php on line 6
+[29-Dec-2019 08:53:33 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'afkaqrxu_admin'@'localhost' (using password: YES) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:54:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:55:10 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'loclhost' (-2) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:55:10 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/config.php on line 6
+[29-Dec-2019 08:58:02 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'loclhost' (-2) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:58:02 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/config.php on line 6
+[29-Dec-2019 08:58:05 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'loclhost' (-2) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:58:05 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/config.php on line 6
+[29-Dec-2019 08:58:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/order.php on line 45
+[29-Dec-2019 08:58:07 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'loclhost' (-2) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:58:07 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/afkaqrxu/public_html/khedma/config.php on line 6
+[29-Dec-2019 08:58:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'loclhost' (-2) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 08:58:55 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'afkaqrxu_admin'@'localhost' to database 'afkaqrxu_khedma' in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 09:00:38 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 09:03:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (-2) in /home/afkaqrxu/public_html/khedma/config.php on line 3
+[29-Dec-2019 16:34:50 America/New_York] PHP Parse error:  syntax error, unexpected 'form' (T_STRING), expecting ',' or ';' in /home/afkaqrxu/public_html/khedma/order.php on line 41
+[29-Dec-2019 16:34:54 America/New_York] PHP Parse error:  syntax error, unexpected 'form' (T_STRING), expecting ',' or ';' in /home/afkaqrxu/public_html/khedma/order.php on line 41
+[29-Dec-2019 16:35:07 America/New_York] PHP Parse error:  syntax error, unexpected 'form' (T_STRING), expecting ',' or ';' in /home/afkaqrxu/public_html/khedma/order.php on line 41
+[29-Dec-2019 16:36:13 America/New_York] PHP Parse error:  syntax error, unexpected 'form' (T_STRING), expecting ',' or ';' in /home/afkaqrxu/public_html/khedma/order.php on line 41
+[29-Dec-2019 17:19:22 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 12
+[29-Dec-2019 17:19:22 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 14
+[29-Dec-2019 17:19:22 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 16
+[29-Dec-2019 17:19:22 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 18
+[29-Dec-2019 17:19:22 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 20
+[29-Dec-2019 17:21:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 12
+[29-Dec-2019 17:21:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 14
+[29-Dec-2019 17:21:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 16
+[29-Dec-2019 17:21:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 18
+[29-Dec-2019 17:21:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 20
+[29-Dec-2019 17:22:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 12
+[29-Dec-2019 17:22:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 14
+[29-Dec-2019 17:22:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 16
+[29-Dec-2019 17:22:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 18
+[29-Dec-2019 17:22:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 20
+[29-Dec-2019 17:23:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 12
+[29-Dec-2019 17:23:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 14
+[29-Dec-2019 17:23:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 16
+[29-Dec-2019 17:23:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 18
+[29-Dec-2019 17:23:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/join.php on line 20
+[29-Dec-2019 17:26:00 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/order.php on line 12
+[29-Dec-2019 17:26:00 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/order.php on line 14
+[29-Dec-2019 17:26:00 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/order.php on line 16
+[29-Dec-2019 17:26:00 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/order.php on line 18
+[29-Dec-2019 17:26:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/order.php on line 12
+[29-Dec-2019 17:26:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/order.php on line 14
+[29-Dec-2019 17:26:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/order.php on line 16
+[29-Dec-2019 17:26:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/afkaqrxu/public_html/khedma/order.php on line 18

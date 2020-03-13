@@ -1,0 +1,16 @@
+.login{
+  margin: auto;
+  margin-top: 200px;
+  width: 500px;
+  border:1px solid #ddd;
+  padding: 50px;
+}
+
+.login h1{
+padding: 30px;
+
+}
+
+.click{
+  text-align: center;
+}
